@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "IFA_Antenna") (type "KiCad") (uri "${KIPRJMOD}/IFA_Antenna.pretty") (options "") (descr "Antenas IFA PCB trace para 915MHz"))
+)
