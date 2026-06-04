@@ -1,0 +1,28 @@
+# KiCad auto-generated cache (regenerado ao abrir o projeto)
+**/fp-info-cache
+
+# Backups automáticos do KiCad
+**/*-backups/
+**/.history/
+
+# Relatórios gerados
+**/ERC.rpt
+**/DRC.rpt
+
+# Exportações (PDFs, Gerbers, etc.) - adicione ao git manualmente se quiser versionar
+# **/*.pdf
+# **/gerbers/
+
+# Arquivos de lock do KiCad (criados quando o projeto está aberto)
+**/*.lck
+**/*~*.lck
+~*.lck
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VSCode workspace file e configurações locais
+SensorWorkSpace.code-workspace
+.vscode/
